@@ -32,4 +32,5 @@ Release
 !*.launch
 !*.png
 !*.jpg
+!*.ftl
 f
